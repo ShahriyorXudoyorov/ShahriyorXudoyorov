@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm Shahriyor Xudoyorov, a junior web developer.
 
-I'm back-end ticher
+⚡ I'm back-end teacher
