@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Shahriyor Xudoyorov, a junior web developer.
+
+I'm back-end ticher
